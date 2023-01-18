@@ -12,19 +12,9 @@ I'm Hubert Łebkowski!
 
 __Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/lebkowskih/New-Songs-Releases">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lebkowskih&repo=MEDYK" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lebkowskih&repo=New-Songs-Releases" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebkowskih)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebkowskih&show_icons=true&theme=radical)
 
 
 
