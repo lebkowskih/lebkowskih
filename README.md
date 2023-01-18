@@ -15,7 +15,8 @@ I'm Hubert Łebkowski!
 
 📫 How to reach me: 
 <hr>
-<a href="[<LinkedInURL>](https://www.linkedin.com/in/hubert-%C5%82ebkowski-10a443237/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="<[LinkedInURL](https://www.linkedin.com/in/hubert-%C5%82ebkowski-10a443237/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
 
