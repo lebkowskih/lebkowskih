@@ -10,12 +10,9 @@ I'm Hubert Łebkowski!
 - System Design and Distributed Computing
 - Software Engineering
 
-__Check out my GitHub repository:__
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebkowskih)](https://github.com/anuraghazra/github-readme-stats)
-
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=lebkowskih&count_private=true&show_icons=true&hide=contribs)
 
 
 <!--
