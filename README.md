@@ -12,7 +12,11 @@ I'm Hubert Łebkowski!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebkowskih)](https://github.com/anuraghazra/github-readme-stats)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=lebkowskih&count_private=true&show_icons=true&hide=contribs)
+
+📫 How to reach me: 
+<hr>
+<a href="[<LinkedInURL>](https://www.linkedin.com/in/hubert-%C5%82ebkowski-10a443237/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
 <!--
