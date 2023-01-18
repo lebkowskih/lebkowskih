@@ -23,7 +23,6 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-🤔 Most used languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebkowskih)](https://github.com/anuraghazra/github-readme-stats)
 
 
