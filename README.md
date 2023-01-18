@@ -1,6 +1,32 @@
 ### Hi there 👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lebkowskih.lebkowskih)](https://github.com/lebkowskih) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/lebkowskih?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lebkowskih.lebkowskih)](https://github.com/lebkowskih) 
+
+I'm Hubert Łebkowski! 
+- <i>Currently: IT and Econometrics Student at Univeristy Of Gdańsk </i>  
+
+<h2>💻 I'm Currently workng on</h2>
+
+- System Design and Distributed Computing
+- Software Engineering
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/lebkowskih/New-Songs-Releases">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/laxmena/CloudOrg-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+🤔 Most used languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebkowskih)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **lebkowskih/lebkowskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
